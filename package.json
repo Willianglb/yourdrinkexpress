@@ -1,7 +1,7 @@
 {
   "name": "book-list-api",
   "version": "1.0.0",
-  "description": "A book list GraphQL API",
+  "description": "A drinks list GraphQL API",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
