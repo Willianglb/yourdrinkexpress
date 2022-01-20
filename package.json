@@ -6,8 +6,8 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "repository": "https://github.com/luckasnix/book-list-api",
-  "author": "Lucas Alves Costa",
+  "repository": "https://github.com/Willianglb/yourdrinkexpress",
+  "author": "Willian Gabriel Laurindo Botelho",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
