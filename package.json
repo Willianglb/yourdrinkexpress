@@ -4,7 +4,7 @@
   "description": "A drinks list GraphQL API",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app"
   },
   "repository": "https://github.com/Willianglb/yourdrinkexpress",
   "author": "Willian Gabriel Laurindo Botelho",

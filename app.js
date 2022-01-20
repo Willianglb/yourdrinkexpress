@@ -7,6 +7,8 @@ const app = express()
 
 app.use(cors())
 
+const port = process.env.PORT || 3000;
+
 app.use(
   '/',
   graphqlHTTP({
@@ -15,4 +17,6 @@ app.use(
   })
 )
 
-app.listen(8080)
+app.listen(port, () => {
+  console.info(`Aplicação rodando em ${port}`)
+});
