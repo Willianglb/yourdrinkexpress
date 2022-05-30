@@ -1,5 +1,5 @@
-## Books-ServerExpress
-Server for Books-GraphQL
+## Yourdrink-ServerExpress
+Server for YourDrink
 
 ## To start the project:
 
